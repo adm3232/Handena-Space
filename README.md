@@ -1,11 +1,3 @@
-Perfeito, vou montar o código inicial do seu aplicativo Handena Business, já considerando as funções principais que você pediu:
-
-Tela principal com cursos e produtos
-
-Upload de cursos
-
-Pagamento (Visa, MasterCard, bancos angolanos via Str
-
 App.js
 
 import React from 'react';
